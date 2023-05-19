@@ -1,7 +1,5 @@
-export function foo(): string {
-  return 'bar'
-}
+const a: any = null
 
-export function wow(): any {
-  return null
+export function foo() {
+  return a
 }

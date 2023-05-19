@@ -1,12 +1,9 @@
-import { foo, wow } from 'dependency'
+import { foo } from 'dependency'
 
-function baz() {
+function bar() {
   return foo()
 }
 
-function cool() {
-  return wow()
-}
+console.log(bar())
 
-console.log(baz())
-console.log(cool())
+const unused = 1 // check eslint is working
