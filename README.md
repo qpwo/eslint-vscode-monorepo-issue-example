@@ -6,6 +6,7 @@
 - https://typescript-eslint.io/linting/typed-linting
 - https://www.typescriptlang.org/docs/handbook/project-references.html
 - https://docs.npmjs.com/cli/v9/using-npm/workspaces
+- https://github.com/microsoft/vscode-eslint
 
 ## NPM workspace instructions
 

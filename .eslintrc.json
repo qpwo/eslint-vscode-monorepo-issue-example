@@ -12,5 +12,6 @@
     // "tsconfigRootDir": ".",
   },
   "plugins": ["@typescript-eslint"],
-  "root": true
+  "root": true,
+  "ignorePatterns": ["node_modules", "tsc-out"]
 }
