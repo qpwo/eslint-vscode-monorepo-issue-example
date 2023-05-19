@@ -1,0 +1,6 @@
+// Root
+{
+  "extends": "./tsconfig.base.json",
+  "references": [{ "path": "./dependency" }, { "path": "./main" }],
+  "include": ["dependency/**/*.ts", "main/**/*.ts"]
+}

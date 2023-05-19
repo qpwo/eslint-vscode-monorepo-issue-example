@@ -1,0 +1,7 @@
+{
+  "name": "dependency",
+  "main": "dependency.ts",
+  "scripts": {
+    "typecheck": "tsc -b ."
+  }
+}
